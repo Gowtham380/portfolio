@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-color-1 {
+  background: linear-gradient(120deg, #f0f4f8 0%, #e8edf3 100%);
+}
+
+.bg-color-2 {
+  background: linear-gradient(120deg, #e8edf3 0%, #e0e6ec 100%);
+}
+
+.bg-color-3 {
+  background: linear-gradient(120deg, #e0e6ec 0%, #dae0e6 100%);
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #43cea2 0%, #185a9d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+ /* Custom keyframes for animation */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .fade-in {
+      animation: fadeIn 1s ease-out forwards;
+    }
+
+    @keyframes pulse-glow {
+      0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.4); }
+      50% { box-shadow: 0 0 40px rgba(59, 130, 246, 0.8); }
+    }
+    .glow {
+      animation: pulse-glow 2s infinite;
+    }
