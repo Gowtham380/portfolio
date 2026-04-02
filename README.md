@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/Gowtham"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://gowtham380.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
+  <img src="https://img.shields.io/badge/View_Live_Portfolio-000000?style=for-the-badge&logo=hyper&logoColor=white" alt="Live Portfolio" />
 </a>
   <a href="mailto:Gowthamsubramani.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
